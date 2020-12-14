@@ -15,6 +15,6 @@ Note: C++ template is only added for now
 - Wait for sometime until the script finishes installing necessary packages
 - Then, voila! Type `codeit` to start!
 
-![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code.png)
+![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code1.png)
 ## Contributions
 Any type of contributions are welcome to this repo!
