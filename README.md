@@ -17,4 +17,4 @@ Note: C++ template is only added for now
 
 ![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code1.png)
 ## Contributions
-Any type of contributions are welcome to this repo!
+Any type of contributions are welcome to this repo! Refer [Contributions](./CONTRIBUTING.md) for more details.
