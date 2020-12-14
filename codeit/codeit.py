@@ -3,8 +3,8 @@ import sys
 import os
 from clint.textui import colored
 from codeit.codeitHelp import help
-from codeit.codeitInit import init
-from codeit.codeitMeta import template_cp, get_filename
+from codeit.codeitInit import init, init_noerror
+from codeit.codeitMeta import template_cp, get_filename, get_fn_beginner
 
 def main():
     if len(sys.argv) < 2:
@@ -12,6 +12,7 @@ def main():
 
     else:
         countArg = 0
+        
         for arg in sys.argv:
             countArg+=1
 
@@ -22,6 +23,19 @@ def main():
                     init_single_file(f'{fileName}.cpp', template)
                     print(colored.yellow(f'Created {fileName}.cpp'))
                     break
+                elif sys.argv[countArg] == '-b':
+                    if sys.argv[countArg+1] == '-ne':
+                        contestName = sys.argv[countArg+2]
+                        fileNames = get_fn_beginner()
+                        init_noerror(contestName, fileNames)
+                    else:
+                        contestName = sys.argv[countArg+1]
+                        fileNames = get_fn_beginner()
+                        init(contestName, fileNames)
+                elif sys.argv[countArg] == '-ne':
+                    contestName = sys.argv[countArg+1]
+                    fileNames = get_filename()
+                    init_noerror(contestName, fileNames)
                 else:
                     contestName = sys.argv[countArg]
                     fileNames = get_filename()

@@ -3,19 +3,22 @@ from clint.textui import colored
 def help():
     print('\n')
 
-    print(colored.green("""
-.d88b .d88b. 888b. 8888 w  w   
-8P    8P  Y8 8   8 8www w w8ww 
-8b    8b  d8 8   8 8    8  8   
-`Y88P `Y88P' 888P' 8888 8  Y8P 
-                               
-"""))
-    print('\n')
+    print(colored.white(""" ██████╗ ██████╗ ██████╗ ███████╗██╗████████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝██║╚══██╔══╝
+██║     ██║   ██║██║  ██║█████╗  ██║   ██║   
+██║     ██║   ██║██║  ██║██╔══╝  ██║   ██║   
+╚██████╗╚██████╔╝██████╔╝███████╗██║   ██║   
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝   
+                                             """))
 
     print(colored.cyan("A CLI Script tool to help you initialize CPP files for any contest"))
     print('\nCommands:\n')
-    print(colored.yellow("codeit -h -------------------- To display help menu"))
-    print(colored.yellow("codeit -i <contest> ---------- To initialize a contest directory"))
-    print(colored.yellow("codeit -i -n <file> ---------- To initialize only a single file"))
-    print(colored.yellow("codeit -v -------------------- To print version number"))
-    print(colored.yellow("codeit -p -------------------- To parse and compile the program"))
+    print(colored.magenta("codemon <flags> <args>\n"))
+    print(colored.red('Args list\n'))
+    print(colored.yellow("-h \n" + colored.blue("To display help menu")))
+    print(colored.yellow("-i <contest> \n" + colored.blue("To initialize a contest directory")))
+    print(colored.yellow("-i -b <contest> \n" + colored.blue("To initialize a contest directory for practice and beginner level")))
+    print(colored.yellow("-i <args> -ne <contest> \n" + colored.blue("To initialize a contest directory without error.txt file")))
+    print(colored.yellow("-i -n <file> \n"  + colored.blue("To initialize only a single file")))
+    print(colored.yellow("-v \n" + colored.blue("To print version number")))
+    print(colored.yellow("-p \n" + colored.blue("To parse and compile the program")))

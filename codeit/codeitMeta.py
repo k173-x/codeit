@@ -20,6 +20,7 @@ def template_cp():
         freopen("input.txt", "r", stdin); 
         freopen("error.txt", "w", stderr); 
         freopen("output.txt", "w", stdout); 
+        //If you do not need error txt, remove it accordingly
     #endif 
 
         int t = 1; 
@@ -27,15 +28,19 @@ def template_cp():
         cin >> t; 
         while (t--) { 
             //Code here
-            cout << "\n"; 
+            cout << endl; 
         } 
 
-        cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl; 
+        cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl; //Optional
         return 0; 
     } """
 
     return template
 
 def get_filename():
-  fileNames = ['A.cpp','B.cpp','C.cpp','D.cpp','E.cpp','F.cpp']
-  return fileNames
+    fileNames = ['A.cpp','B.cpp','C.cpp','D.cpp','E.cpp','F.cpp']
+    return fileNames
+
+def get_fn_beginner():
+    fileNames = ['A.cpp','B.cpp','C.cpp']
+    return fileNames
