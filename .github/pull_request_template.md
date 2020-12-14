@@ -5,6 +5,7 @@ Before creating a PR, just answer a below questions to get started...
     - [ ] Bug fix
     - [ ] Feature Update
     - [ ] Issue fix
+    - [ ] Doc fix/update
     - [ ] Other
 
 2. What OS you're using right now?
