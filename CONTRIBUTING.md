@@ -15,3 +15,5 @@ These are the common rules to be followed for this project. For PR rules, follow
 4. The PRs will be tested to ensure it works
 
 Well, that's it! :smile: And what to do next? You know it! **Best of luck!** And don't forget to star this repo if you like it! :wink:
+
+Oh and if you perform well in your contribution, you'll have chance to get featured! :smile: :heart:
