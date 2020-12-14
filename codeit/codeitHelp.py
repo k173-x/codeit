@@ -21,4 +21,3 @@ def help():
     print(colored.yellow("-i <args> -ne <contest> \n" + colored.blue("To initialize a contest directory without error.txt file")))
     print(colored.yellow("-i -n <file> \n"  + colored.blue("To initialize only a single file")))
     print(colored.yellow("-v \n" + colored.blue("To print version number")))
-    print(colored.yellow("-p \n" + colored.blue("To parse and compile the program")))
