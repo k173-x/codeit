@@ -14,6 +14,7 @@ Note: C++ template is only added for now
 ## Installation
 - To install type `git clone https://github.com/alphaX86/codeit` to clone the repo into your system
 - Next, go to the folder by using the `cd` command or directly use `bash` or `cmd` on the file path of repo
+- Then type `pip install setuptools`
 - Finally, type `pip install .`
 - Wait for sometime until the script finishes installing necessary packages
 - Then, voila! Type `codeit` to start!

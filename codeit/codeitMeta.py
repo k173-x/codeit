@@ -1,6 +1,5 @@
 def template_cp():
-    template = """
-#include <bits/stdc++.h> 
+    template = """#include <bits/stdc++.h> 
 //Include libraries accordingly
 
 using namespace std; 
