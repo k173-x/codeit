@@ -42,7 +42,7 @@ def main():
                     init(contestName, fileNames)
 
             elif arg == "-v":
-                print(colored.magenta('CODEIt v0.0.2'))
+                print(colored.magenta('CODEIt v0.0.2 (c)2020, alphaX86'))
 
             elif arg == "-h":
                 help()
