@@ -11,6 +11,8 @@ In times of contest, one has to create a CPP file, type code in it, test the cas
 
 Note: C++ template is only added for now
 
+**From 20/12/2020, @Arch2x will be taking over this repo as a part of collab project**
+
 ## Link to Docker:
 [Docker Hub](https://hub.docker.com/repository/docker/aerox86/codeit)
 ## Installation
