@@ -13,7 +13,7 @@ def help():
 
     print(colored.cyan("A CLI Script tool to help you initialize CPP files for any contest"))
     print('\nCommands:\n')
-    print(colored.magenta("codemon <flags> <args>\n"))
+    print(colored.magenta("codeit <flags> <args>\n"))
     print(colored.red('Args list\n'))
     print(colored.yellow("-h \n" + colored.blue("To display help menu")))
     print(colored.yellow("-i <contest> \n" + colored.blue("To initialize a contest directory")))
