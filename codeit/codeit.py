@@ -3,7 +3,7 @@ import sys
 import os
 from clint.textui import colored
 from codeit.codeitHelp import help
-from codeit.codeitInit import init, init_noerror
+from codeit.codeitInit import init, init_noerror, init_noerror_agg
 from codeit.codeitMeta import template_cp, get_filename, get_fn_beginner
 
 def main():
@@ -28,6 +28,10 @@ def main():
                         contestName = sys.argv[countArg+2]
                         fileNames = get_fn_beginner()
                         init_noerror(contestName, fileNames)
+                    elif sys.argv[countArg+1] == '-t2':
+                        contestName = sys.argv[countArg+2]
+                        fileNames = get_fn_beginner()
+                        init_noerror_agg(contestName, fileNames)
                     else:
                         contestName = sys.argv[countArg+1]
                         fileNames = get_fn_beginner()
@@ -36,13 +40,17 @@ def main():
                     contestName = sys.argv[countArg+1]
                     fileNames = get_filename()
                     init_noerror(contestName, fileNames)
+                elif sys.argv[countArg] == '-t2':
+                    contestName = sys.argv[countArg+1]
+                    fileNames = get_filename()
+                    init_noerror_agg(contestName, fileNames)
                 else:
                     contestName = sys.argv[countArg]
                     fileNames = get_filename()
                     init(contestName, fileNames)
 
             elif arg == "-v":
-                print(colored.magenta('CODEIt v0.0.2 (c)2020, alphaX86'))
+                print(colored.magenta('CODEIt v0.0.3 (c)2020 - 2021, alphaX86 under Arch-1'))
 
             elif arg == "-h":
                 help()

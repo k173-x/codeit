@@ -23,7 +23,14 @@ Note: C++ template is only added for now
 - Wait for sometime until the script finishes installing necessary packages
 - Then, voila! Type `codeit` to start!
 
-![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code1.png)
+![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code.gif)
+
+## Demo
+Here's a demo of the project to understand! (Done using VS Code)
+
+![Demo1](https://raw.githubusercontent.com/alphaX86/codeit/master/Demo.gif)
+
+
 ## Contributions
 Any type of contributions are welcome to this repo! Refer [Contributions](./CONTRIBUTING.md) for more details.
 
