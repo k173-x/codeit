@@ -4,7 +4,7 @@ import os
 from clint.textui import colored
 from codeit.codeitHelp import help
 from codeit.codeitInit import init, init_noerror, init_noerror_agg
-from codeit.codeitMeta import template_cp, get_filename, get_fn_beginner
+from codeit.codeitMeta import template_agg, template_cp, get_filename, get_fn_beginner
 
 def main():
     if len(sys.argv) < 2:
@@ -19,7 +19,7 @@ def main():
             if arg == "-i":
                 if sys.argv[countArg] == '-n':
                     fileName = sys.argv[countArg+1]
-                    template = template_cp()
+                    template = template_agg()
                     init_single_file(f'{fileName}.cpp', template)
                     print(colored.yellow(f'Created {fileName}.cpp'))
                     break
