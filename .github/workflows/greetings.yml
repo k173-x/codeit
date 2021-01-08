@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hello there! Thanks for making up an issue! Just wait until a reviewer comes up to check it. In meantime, feel free to explore this repo!'
+        pr-message: 'Hello there! Thanks for making a PR! Just wait until a reviewer comes up to check your PR. In meantime, feel free to explore this repo!'
