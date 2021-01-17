@@ -13,6 +13,16 @@ These are the common rules to be followed for this project. For PR rules, follow
 2. The PR will be checked if some of the tests pass on yours
 3. If any changes are requested on your PR, do it kindly. Failing to do so will close your PR.
 4. The PRs will be tested to ensure it works
+5. Sign off your PR every time you introduce a change in your PR. This step will be explained below... 
+
+Now, you've understood the rules, it's time for the how-to guide! 
+1. Clone the repo using `git clone <repo-url>` or using GitHub CLI (mentioned in the clone instructions on repo itself. No worries) 
+2. Install necessary requirements by giving the command `pip install .` (Linux users may need to use `pip3` instead of `pip`) 
+3. Then, find or make the changes in the repo
+4. To test the script, type `codeit` and use the flag you introduced or changed. 
+5. Last, add those changes and checkout to other branch. 
+6. Commit your changes with a sign-off by giving `git commit -s -m "Message"` You need to keep your email public in GitHub for Verification. Anonymous contributions are not accepted. (This is to practice this sign-off trend in big projects) 
+7. Then, push it to GitHub and start a PR. 
 
 Well, that's it! :smile: And what to do next? You know it! **Best of luck!** And don't forget to star this repo if you like it! :wink:
 
