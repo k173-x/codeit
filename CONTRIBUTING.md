@@ -16,7 +16,9 @@ These are the common rules to be followed for this project. For PR rules, follow
 5. Sign off your PR every time you introduce a change in your PR. This step will be explained below... 
 
 Now, you've understood the rules, it's time for the how-to guide! 
-1. Clone the repo using `git clone <repo-url>` or using GitHub CLI (mentioned in the clone instructions on repo itself. No worries) 
+
+## How to contribute? 
+1. Fork a copy of repo and Clone the repo using `git clone <repo-url>` or using GitHub CLI (mentioned in the clone instructions on repo itself. No worries) 
 2. Install necessary requirements by giving the command `pip install .` (Linux users may need to use `pip3` instead of `pip`) 
 3. Then, find or make the changes in the repo
 4. To test the script, type `codeit` and use the flag you introduced or changed. 
