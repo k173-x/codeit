@@ -3,17 +3,17 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-### A CLI based Script to create CPP files for programming contests
+### A CLI based Script tool to create CPP files for programming contests
 
-In times of contest, one has to create a CPP file, type code in it, test the cases, find the errors etc. Some times, it'd be really hectic to create files and start. But how about a tool to generate a directory which has all the files you need?? ;)
+In times of contests, one has to create a CPP file, type code in it, test the cases, find the errors etc. Some times, it'd be really hectic to create files and start. But how about a tool to generate a directory which has all the files you need?? ;)
 
-### CODEIt eases this problem by creating the directory which has all files in it
+#### CODEIt eases this problem by creating the directory which has all files in it
 
 Note: C++ template is only added for now
 
 **From 20/12/2020, @Arch2x will be taking over this repo as a part of collab project**
 
-## Link to Docker:
+## Link to Docker Image:
 [Docker Hub](https://hub.docker.com/repository/docker/aerox86/codeit)
 ## Installation
 - To install type `git clone https://github.com/alphaX86/codeit` to clone the repo into your system
@@ -32,7 +32,7 @@ Here's a demo of the project to understand! (Done using VS Code)
 
 
 ## Contributions
-Any type of contributions are welcome to this repo! Refer [Contributions](./CONTRIBUTING.md) for more details.
+Any type of contributions are welcome for this repo! Refer [Contributions](./CONTRIBUTING.md) to know how to contribute to this repo and more. 
 
 ## Code Of Conduct
 This repo follows the [Contributor Covenant](./CODE_OF_CONDUCT.md) to enforce proper behaviour. Refer the doc for more details.
