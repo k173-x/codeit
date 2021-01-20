@@ -21,7 +21,7 @@ Note: C++ template is only added for now
 - Then type `pip install setuptools`
 - Finally, type `pip install .`
 - Wait for sometime until the script finishes installing necessary packages
-- Then, voila! Type `codeit` to start!
+- Then, voila! Type `codeit` to start! 
 
 ![Demo](https://raw.githubusercontent.com/alphaX86/codeit/master/code.gif)
 
