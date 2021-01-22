@@ -35,8 +35,7 @@ def create_only_files(contestName,fileNames):
     for files in range(len(fileNames)):
       write_to_file(fileNames[files], template_cp(), currentDir)
   except OSError as e:
-    # print(colored.red("Failed! The Files can't be created in current Directory."))
-    print('Error occurred : ' + str(e))
+    print(colored.red("Failed! The Files can't be created in current Directory."))
   else:
     print(colored.green('Files have been created. Happy Coding!'))
 
