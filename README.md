@@ -1,6 +1,6 @@
 # CODEIt
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### A CLI based Script tool to create CPP files for programming contests
@@ -46,12 +46,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.notion.so/Aadhitya-A-8fa235288e324ab185d3eeffbbbf7b8a"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/alphaX86/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/alphaX86/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.notion.so/Aadhitya-A-8fa235288e324ab185d3eeffbbbf7b8a"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Kushagrabainsla"><img src="https://avatars.githubusercontent.com/u/72407476?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Bainsla</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Code">💻</a> <a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
