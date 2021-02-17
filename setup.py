@@ -6,6 +6,8 @@ setup(
   author='Aadhitya A',
   author_email='aadhitya864@gmail.com',
   description = 'A CLI tool to create CPP files for any contest',
+  long_description = 'readme',
+  long_description_content_type="text/markdown",
   license = 'GPL-3.0',
   url="https://github.com/Arch2x/codeit",
   packages=find_packages(),

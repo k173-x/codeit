@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: codeit
+Version: 0.0.3
+Summary: A CLI tool to create CPP files for any contest
+Home-page: https://github.com/Arch2x/codeit
+Author: Aadhitya A
+Author-email: aadhitya864@gmail.com
+License: GPL-3.0
+Description: readme
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
