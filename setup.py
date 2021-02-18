@@ -1,13 +1,18 @@
 from setuptools import setup,find_packages
 
+from os import path
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
+
 setup(
-  name='codeit',
+  name='cxit',
   packages = find_packages(),
   version='1.0.0',
   author='Aadhitya A',
   author_email='aadhitya864@gmail.com',
   description = 'A CLI tool to create CPP files for any contest',
-  long_description = 'readme',
+  long_description = long_description,
   long_description_content_type="text/markdown",
   license = 'GPL-3.0',
   py_modules=['codeit'],

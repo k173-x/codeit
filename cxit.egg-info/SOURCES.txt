@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+codeit/__init__.py
+codeit/codeit.py
+codeit/codeitHelp.py
+codeit/codeitInit.py
+codeit/codeitMeta.py
+cxit.egg-info/PKG-INFO
+cxit.egg-info/SOURCES.txt
+cxit.egg-info/dependency_links.txt
+cxit.egg-info/entry_points.txt
+cxit.egg-info/requires.txt
+cxit.egg-info/top_level.txt
