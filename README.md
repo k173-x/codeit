@@ -15,7 +15,16 @@ Note: C++ template is only added for now
 
 ## Link to Docker Image:
 [Docker Hub](https://hub.docker.com/repository/docker/aerox86/codeit)
-## Installation
+
+## Installation (for users)
+- Make sure you've installed Python 3 in you system, if not do it first.
+- Then type the following commands...
+  - `pip install clint`
+  - `pip install watchdog`
+- Then finally type `pip install cxit` (package is still codeit but renamed to avoid conflicts)
+- Type `codeit` and you're good to go!
+
+## Installation (for developers)
 - To install type `git clone https://github.com/alphaX86/codeit` to clone the repo into your system
 - Next, go to the folder by using the `cd` command or directly use `bash` or `cmd` on the file path of repo
 - Then type `pip install setuptools`
