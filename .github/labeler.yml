@@ -2,11 +2,13 @@ markdown:
   - "**/*.md"
   - "*.md"
 
-repo:
-  - ./*
-
 docker:
   - "./Dockerfile"
 
 ci:
   - ".github/**"
+  
+python:
+  - "*.py"
+  - "**/*.py"
+  
