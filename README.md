@@ -15,9 +15,6 @@ Note: C++ template is only added for now
 
 **From 20/12/2020, @Arch2x will be taking over this repo as a part of collab project**
 
-## Link to Docker Image:
-[Docker Hub](https://hub.docker.com/repository/docker/aerox86/codeit)
-
 ## Installation (for users)
 - Make sure you've installed Python 3 in you system, if not do it first.
 - Then type the following commands...
