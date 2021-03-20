@@ -54,7 +54,7 @@ def main():
                 create_only_files(contestName, fileNames)
 
             elif arg == "-v":
-                print(colored.magenta('CODEIt v0.0.3 (c)2020 - 2021, alphaX86 under Arch-1'))
+                print(colored.magenta('CODEIt v1.0.1 (c)2020 - 2021, alphaX86 under Arch-1'))
 
             elif arg == "-h":
                 help()

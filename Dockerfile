@@ -4,8 +4,6 @@ WORKDIR /code
 
 RUN pip install setuptools
 
-COPY . .
-
-RUN pip install .
+RUN pip install cxit
 
 CMD ["codeit"]

@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python) [![Build](https://github.com/Arch2x/codeit/workflows/Python%20package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-package.yml) [![CodeQL](https://github.com/Arch2x/codeit/workflows/CodeQL/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/codeql-analysis.yml) [![pipeline status](https://gitlab.com/alphaX86/codeit/badges/master/pipeline.svg)](https://gitlab.com/alphaX86/codeit/-/commits/master) [![Upload](https://github.com/Arch2x/codeit/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-publish.yml) [![Docker](https://img.shields.io/badge/-Docker%20Hub-blue?style=flat-square&logo=docker)](https://hub.docker.com/repository/docker/aerox86/codeit) [![PyPI](https://img.shields.io/badge/-PyPI%20Official-green?style=flat-square&logo=python)](https://pypi.org/project/cxit/1.0.0/)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) [![Build](https://github.com/Arch2x/codeit/workflows/Python%20package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-package.yml) [![CodeQL](https://github.com/Arch2x/codeit/workflows/CodeQL/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/codeql-analysis.yml) [![Upload](https://github.com/Arch2x/codeit/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-publish.yml) [![Docker](https://img.shields.io/badge/-Docker%20Hub-blue?style=flat-square&logo=docker)](https://hub.docker.com/repository/docker/aerox86/codeit) [![PyPI](https://img.shields.io/badge/-PyPI%20Official-green?style=flat-square&logo=python)](https://pypi.org/project/cxit)
 
 ### A CLI based Script tool to create CPP files for programming contests
 
@@ -11,9 +11,7 @@ In times of contests, one has to create a CPP file, type code in it, test the ca
 
 #### CODEIt eases this problem by creating the directory which has all files in it
 
-Note: C++ template is only added for now
-
-**From 20/12/2020, @Arch2x will be taking over this repo as a part of collab project**
+**C++ template is only added for now, more to come in future!**
 
 ## Installation (for users)
 - Make sure you've installed Python 3 in you system, if not do it first.
