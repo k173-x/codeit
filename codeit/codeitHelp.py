@@ -4,10 +4,9 @@ from clint.textui import colored
 def help():
     function = {"  -h ": " To display help menu.",
                 "  -i <contest> ": " To initialize a contest directory.",
-                "  -f ": " To create only files in the current directory level, folder needed.", 
+                "  -f ": " To create only files in a directory.", 
                 "  -i -b <contest> ": " To initialize a contest directory for practice and beginner level.",
-                "  -i <args> -ne <contest> ": " To initialize a contest directory without error.txt file.",
-                "  -i <args> -t2 <contest> ": " To initialize a contest directory and use 2nd template without error.txt file.",
+                "  -i <args> -t2 <contest> ": " To initialize a contest directory and use 2nd template.",
                 "  -i -n <file> ": " To initialize only a single file.",
                 "  -v ": " To print version number."}
 

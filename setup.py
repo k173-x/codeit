@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
   name='cxit',
   packages = find_packages(),
-  version='1.0.1',
+  version='1.0.2',
   author='Aadhitya A',
   author_email='aadhitya864@gmail.com',
   description = 'A CLI tool to create CPP files for any contest',

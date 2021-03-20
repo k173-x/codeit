@@ -3,7 +3,7 @@ import sys
 import os
 from clint.textui import colored
 from codeit.codeitHelp import help
-from codeit.codeitInit import init, init_noerror, init_noerror_agg, create_only_files
+from codeit.codeitInit import init, init_agg, create_only_files
 from codeit.codeitMeta import template_agg, template_cp, get_filename, get_fn_beginner
 
 def main():
@@ -27,23 +27,15 @@ def main():
                     if sys.argv[countArg+1] == '-ne':
                         contestName = sys.argv[countArg+2]
                         fileNames = get_fn_beginner()
-                        init_noerror(contestName, fileNames)
+                        init(contestName, fileNames)
                     elif sys.argv[countArg+1] == '-t2':
                         contestName = sys.argv[countArg+2]
                         fileNames = get_fn_beginner()
-                        init_noerror_agg(contestName, fileNames)
-                    else:
-                        contestName = sys.argv[countArg+1]
-                        fileNames = get_fn_beginner()
-                        init(contestName, fileNames)
-                elif sys.argv[countArg] == '-ne':
-                    contestName = sys.argv[countArg+1]
-                    fileNames = get_filename()
-                    init_noerror(contestName, fileNames)
+                        init_agg(contestName, fileNames)
                 elif sys.argv[countArg] == '-t2':
                     contestName = sys.argv[countArg+1]
                     fileNames = get_filename()
-                    init_noerror_agg(contestName, fileNames)
+                    init_agg(contestName, fileNames)
                 else:
                     contestName = sys.argv[countArg]
                     fileNames = get_filename()
@@ -54,7 +46,7 @@ def main():
                 create_only_files(contestName, fileNames)
 
             elif arg == "-v":
-                print(colored.magenta('CODEIt v1.0.1 (c)2020 - 2021, alphaX86 under Arch-1'))
+                print(colored.magenta('CODEIt v1.0.2 (c)2020 - 2021, alphaX86 under Arch-1'))
 
             elif arg == "-h":
                 help()

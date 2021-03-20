@@ -3,7 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) [![Build](https://github.com/Arch2x/codeit/workflows/Python%20package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-package.yml) [![CodeQL](https://github.com/Arch2x/codeit/workflows/CodeQL/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/codeql-analysis.yml) [![Upload](https://github.com/Arch2x/codeit/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-publish.yml) [![Docker](https://img.shields.io/badge/-Docker%20Hub-blue?style=flat-square&logo=docker)](https://hub.docker.com/repository/docker/aerox86/codeit) [![PyPI](https://img.shields.io/badge/-PyPI%20Official-green?style=flat-square&logo=python)](https://pypi.org/project/cxit)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) [![Docker](https://img.shields.io/badge/-Docker%20Hub-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/repository/docker/aerox86/codeit) [![PyPI](https://img.shields.io/badge/-PyPI%20Official-green?style=for-the-badge&logo=python)](https://pypi.org/project/cxit)
+
+## Test status
+[![Build](https://github.com/Arch2x/codeit/workflows/Python%20package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-package.yml) [![CodeQL](https://github.com/Arch2x/codeit/workflows/CodeQL/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/codeql-analysis.yml) [![Upload](https://github.com/Arch2x/codeit/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-publish.yml)
 
 ### A CLI based Script tool to create CPP files for programming contests
 
@@ -22,7 +25,7 @@ In times of contests, one has to create a CPP file, type code in it, test the ca
 - Type `codeit` and you're good to go!
 
 ## Installation (for developers)
-- To install type `git clone https://github.com/alphaX86/codeit` to clone the repo into your system
+- To install type `git clone https://github.com/Arch2x/codeit` to clone the repo into your system
 - Next, go to the folder by using the `cd` command or directly use `bash` or `cmd` on the file path of repo
 - Then type `pip install setuptools`
 - Finally, type `pip install .`
@@ -52,7 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.notion.so/Aadhitya-A-8fa235288e324ab185d3eeffbbbf7b8a"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://alphax86.github.io"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
     <td align="center"><a href="http://codeit13.github.io"><img src="https://avatars.githubusercontent.com/u/45000045?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Chauhan</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=codeit13" title="Code">💻</a> <a href="https://github.com/Arch2x/codeit/commits?author=codeit13" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Kushagrabainsla"><img src="https://avatars.githubusercontent.com/u/72407476?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Bainsla</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Code">💻</a> <a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Documentation">📖</a></td>
   </tr>
@@ -64,3 +67,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## Contributors ✨ (Full List :nerd_face:)
+<a href="https://github.com/Arch2x/codeit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Arch2x/codeit" />
+</a>
+
+
+
+Thanks a lot guys! And don't forget to star this repo if you've like it! ;)
