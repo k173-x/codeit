@@ -1,6 +1,7 @@
 #Default template
 def template_cp():
-    template = """#include <bits/stdc++.h> 
+    template = """#include <bits/stdc++.h>
+#include <iostream> 
 
 using namespace std; 
 

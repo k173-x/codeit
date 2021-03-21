@@ -42,7 +42,7 @@ def init_agg(contestName, fileNames):
     # create input file
     write_to_file('input.txt', '', contestName)
     write_to_file('output.txt', '', contestName)
-    print(colored.green('Files have been created without error TXT file. Happy Coding!'))
+    print(colored.green('Files have been created. Happy Coding!'))
 
 def create_only_files(contestName, fileNames):
   try:
