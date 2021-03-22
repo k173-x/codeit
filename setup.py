@@ -25,7 +25,6 @@ setup(
   python_requires='>=3.5',
   include_package_data = True,
   install_requires=[
-    'watchdog',
     'clint'
   ],
   entry_points={
