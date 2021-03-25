@@ -44,7 +44,7 @@ Any type of contributions are welcome for this repo! Refer [Contributions](./CON
 ## Code Of Conduct
 This repo follows the [Contributor Covenant](./CODE_OF_CONDUCT.md) to enforce proper behaviour. Refer the doc for more details.
 
-## Contributors ✨
+## Maintainers ✨👨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -54,8 +54,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://alphax86.github.io"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://codeit13.github.io"><img src="https://avatars.githubusercontent.com/u/45000045?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Chauhan</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=codeit13" title="Code">💻</a> <a href="https://github.com/Arch2x/codeit/commits?author=codeit13" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Kushagrabainsla"><img src="https://avatars.githubusercontent.com/u/72407476?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kushagra Bainsla</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Code">💻</a> <a href="https://github.com/Arch2x/codeit/commits?author=Kushagrabainsla" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -64,14 +62,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
-## Contributors ✨ (Full List :nerd_face:)
+## Contributors ✨
 <a href="https://github.com/Arch2x/codeit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arch2x/codeit" />
 </a>
-
 
 
 Thanks a lot guys! And don't forget to star this repo if you've like it! ;)
