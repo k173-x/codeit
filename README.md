@@ -5,6 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python) [![Docker](https://img.shields.io/badge/-Docker%20Hub-blue?style=flat-square&logo=docker)](https://hub.docker.com/repository/docker/aerox86/codeit) [![PyPI](https://img.shields.io/badge/-PyPI%20Official-green?style=flat-square&logo=python)](https://pypi.org/project/cxit)
 [![Build](https://github.com/Arch2x/codeit/workflows/Python%20package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-package.yml) [![CodeQL](https://github.com/Arch2x/codeit/workflows/CodeQL/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/codeql-analysis.yml) [![Upload](https://github.com/Arch2x/codeit/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/Arch2x/codeit/actions/workflows/python-publish.yml)
+[![Travis CI Build Status](https://travis-ci.com/Arch2x/codeit.svg?branch=master)](https://travis-ci.com/Arch2x/codeit)
 
 ### A CLI based Script tool to create CPP files for programming contests
 
