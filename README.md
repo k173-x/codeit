@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://alphax86.github.io"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://alphax86.github.io"><img src="https://avatars1.githubusercontent.com/u/59508546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aadhitya A</b></sub></a><br /><a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Code">💻</a> <a href="#design-alphaX86" title="Design">🎨</a> <a href="https://github.com/Arch2x/codeit/commits?author=alphaX86" title="Documentation">📖</a> <a href="#mentoring-alphaX86" title="Mentoring">🧑‍🏫</a> <a href="#maintenance-alphaX86" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
