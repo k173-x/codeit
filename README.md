@@ -70,4 +70,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </a>
 
 
-Thanks a lot guys! And don't forget to star this repo if you've like it! ;)
+Thanks a lot guys! 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Arch2x/codeit.svg)](https://starchart.cc/Arch2x/codeit)
+
+With your effort, we can raise the numbers! ;) 
+
+## License 
+This project uses [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html) to maintain integrity
+
