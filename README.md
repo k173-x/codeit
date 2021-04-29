@@ -79,5 +79,5 @@ Thanks a lot guys!
 With your effort, we can raise the numbers! ;) 
 
 ## License 
-This project uses [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html) to maintain integrity
+This project uses [MIT License](https://opensource.org/licenses/MIT) to maintain integrity
 
