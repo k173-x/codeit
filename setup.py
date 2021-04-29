@@ -19,8 +19,8 @@ setup(
   url="https://github.com/Arch2x/codeit",
   classifiers=(
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
-        'Programming Language :: Python :: 3.8'
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python :: 3.7'
     ),
   python_requires='>=3.5',
   include_package_data = True,
